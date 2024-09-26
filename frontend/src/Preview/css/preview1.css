@@ -1,0 +1,23 @@
+.text {
+    display: flex;
+   
+    flex-direction: column;
+    font-family: "Roboto";
+    width: 800px;
+    margin: auto;
+
+}
+
+
+.heading {
+    margin: auto;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+.subHeading {
+    margin: auto;
+    font-weight: 500;
+    font-size: 75px;
+
+}

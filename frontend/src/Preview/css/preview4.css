@@ -1,0 +1,30 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    font-family: "Roboto";
+  
+
+}
+
+.svg-content{
+    padding: 30%;
+}
+
+
+.headings{
+    padding-top: 40%;
+    padding-left: 10%;
+
+}
+
+.heading1{
+    font-weight: 900;
+    font-size: 80px;
+}
+
+.subHeading2{
+    font-weight: 600;
+    font-size: 80px;
+}
+
+
